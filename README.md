@@ -1,5 +1,5 @@
 # arXiv-text-generation
-A curated list of text generation in arXiv.
+A curated list of text generation papers in arXiv.
 
 Maintained by Zhihong Chen (zhihongchen@link.cuhk.edu.cn) and Yaling Shen (yalingshen@link.cuhk.edu.cn).
 
