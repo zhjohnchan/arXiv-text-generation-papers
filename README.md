@@ -1,4 +1,7 @@
 # arXiv-text-generation
+A curated list of text generation in arXiv.
+
+Maintained by Zhihong Chen (zhihongchen@link.cuhk.edu.cn) and Yaling Shen (yalingshen@link.cuhk.edu.cn).
 
 ## Table of Contents
 - [2020](#2020)
@@ -7,7 +10,96 @@
 ## 2020
 ### 2020-03
 * [Metaphoric Paraphrase Generation](https://arxiv.org/abs/2002.12854)
-  * Kevin Stowe, Iryna Gurevych
+  * Kevin Stowe, Leonardo Ribeiro, Iryna Gurevych
+* [UniLMv2: Pseudo-Masked Language Models for Unified Language Model Pre-Training](https://arxiv.org/abs/2002.12804)
+	* Hangbo Bao, Li Dong, Furu Wei, Wenhui Wang, Nan Yang, Xiaodong Liu, Yu Wang, Songhao Piao, Jianfeng Gao, Ming Zhou, Hsiao-Wuen Hon
+
+* [DC-BERT: Decoupling Question and Document for Efficient Contextual Encoding](https://arxiv.org/abs/2002.12591)
+	* Yuyu Zhang, Ping Nie, Xiubo Geng, Arun Ramamurthy, Le Song, Daxin Jiang
+
+* [Modeling Future Cost for Neural Machine Translation](https://arxiv.org/abs/2002.12558)
+	* Chaoqun Duan, Kehai Chen, Rui Wang, Masao Utiyama, Eiichiro Sumita, Conghui Zhu, Tiejun Zhao
+
+* [Robust Unsupervised Neural Machine Translation with Adversarial Training](https://arxiv.org/abs/2002.12549)
+	* Haipeng Sun, Rui Wang, Kehai Chen, Masao Utiyama, Eiichiro Sumita, Tiejun Zhao
+
+* [Temporal Convolutional Attention-based Network For Sequence Modeling](https://arxiv.org/abs/2002.12530)
+	* Hongyan Hao, Yan Wang, Yudi Xia, Jian Zhao, Furao Shen
+
+* [Exploring and Distilling Cross-Modal Information for Image Captioning](https://arxiv.org/abs/2002.12585)
+	* Fenglin Liu, Xuancheng Ren, Yuanxin Liu, Kai Lei, Xu Sun
+
+* [Style Example-Guided Text Generation using Generative Adversarial Transformers](https://arxiv.org/abs/2003.00674)
+	* Kuo-Hao Zeng, Mohammad Shoeybi, Ming-Yu Liu
+
+* [Learning from Easy to Complex: Adaptive Multi-curricula Learning for Neural Dialogue Generation](https://arxiv.org/abs/2003.00639)
+	* Hengyi Cai, Hongshen Chen, Cheng Zhang, Yonghao Song, Xiaofang Zhao, Yangxi Li, Dongsheng Duan, Dawei Yin
+
+* [StructSum: Incorporating Latent and Explicit Sentence Dependencies for Single Document Summarization](https://arxiv.org/abs/2003.00576)
+	* Vidhisha Balachandran, Artidoro Pagnoni, Jay Yoon Lee, Dheeraj Rajagopal, Jaime Carbonell, Yulia Tsvetkov
+
+* [Clinical Text Summarization with Syntax-Based Negation and Semantic Concept Identification](https://arxiv.org/abs/2003.00353)
+	* Wei-Hung Weng, Yu-An Chung, Schrasing Tong
+
+* [Hybrid Generative-Retrieval Transformers for Dialogue Domain Adaptation](https://arxiv.org/abs/2003.01680)
+	* Igor Shalyminov, Alessandro Sordoni, Adam Atkinson, Hannes Schulz
+
+* [XGPT: Cross-modal Generative Pre-Training for Image Captioning](https://arxiv.org/abs/2003.01473)
+	* Qiaolin Xia, Haoyang Huang, Nan Duan, Dongdong Zhang, Lei Ji, Zhifang Sui, Edward Cui, Taroon Bharti, Xin Liu, Ming Zhou
+
+* [Meta-Embeddings Based On Self-Attention](https://arxiv.org/abs/2003.01371)
+	* Qichen Li, Xiaoke Jiang, Jun Xia, Jian Li
+
+* [CLUECorpus2020: A Large-scale Chinese Corpus for Pre-trainingLanguage Model](https://arxiv.org/abs/2003.01355)
+	* Liang Xu, Xuanwei Zhang, Qianqian Dong
+
+* [Hierarchical Context Enhanced Multi-Domain Dialogue System for Multi-domain Task Completion](https://arxiv.org/abs/2003.01338)
+	* Jingyuan Yang, Guang Liu, Yuzhao Mao, Zhiwei Zhao, Weiguo Gao, Xuan Li, Haiqin Yang, Jianping Shen
+
+* [Data Augmentation using Pre-trained Transformer Models](https://arxiv.org/abs/2003.02245)
+	* Varun Kumar, Ashutosh Choudhary, Eunah Cho
+
+* [Evaluating Low-Resource Machine Translation between Chinese and Vietnamese with Back-Translation](https://arxiv.org/abs/2003.02197)
+	* Hongzheng Li, Heyan Huang
+
+* [Posterior-GAN: Towards Informative and Coherent Response Generation with Posterior Generative Adversarial Network](https://arxiv.org/abs/2003.02020)
+	* Shaoxiong Feng, Hongshen Chen, Kan Li, Dawei Yin
+
+* [SentenceMIM: A Latent Variable Language Model](https://arxiv.org/abs/2003.02645)
+	* Micha Livne, Kevin Swersky, David J. Fleet
+
+* [Distill, Adapt, Distill: Training Small, In-Domain Models for Neural Machine Translation](https://arxiv.org/abs/2003.02877)
+	* Mitchell A. Gordon, Kevin Duh
+
+* [An Empirical Investigation of Pre-Trained Transformer Language Models for Open-Domain Dialogue Generation](https://arxiv.org/abs/2003.04195)
+	* Piji Li
+
+* [Investigating the Decoders of Maximum Likelihood Sequence Models: A Look-ahead Approach](https://arxiv.org/abs/2003.03716)
+	* Yu-Siang Wang, Yen-Ling Kuo, Boris Katz
+
+* [A Post-processing Method for Detecting Unknown Intent of Dialogue System via Pre-trained Deep Neural Network Classifier](https://arxiv.org/abs/2003.03504)
+	* Ting-En Lin, Hua Xu
+
+* [ReZero is All You Need: Fast Convergence at Large Depth](https://arxiv.org/abs/2003.04887)
+	* Thomas Bachlechner, Bodhisattwa Prasad Majumder, Huanru Henry Mao, Garrison W. Cottrell, Julian McAuley
+
+* [Capturing document context inside sentence-level neural machine translation models with self-training](ttps://arxiv.org/abs/2003.05259)
+	* Elman Mansimov, Gábor Melis, Lei Yu
+
+* [Toward Interpretability of Dual-Encoder Models for Dialogue Response Suggestions](https://arxiv.org/abs/2003.04998)
+	* Yitong Li, Dianqi Li, Sushant Prakash, Peng Wang
+
+* [Adv-BERT: BERT is not robust on misspellings! Generating nature adversarial samples on BERT](https://arxiv.org/abs/2003.04985)
+	* Lichao Sun, Kazuma Hashimoto, Wenpeng Yin, Akari Asai, Jia Li, Philip Yu, Caiming Xiong
+
+* [Mask & Focus: Conversation Modelling by Learning Concepts](https://arxiv.org/abs/2003.04976)
+	* Gaurav Pandey, Dinesh Raghu, Sachindra Joshi
+
+* [Transformer++](https://arxiv.org/abs/2003.04974)
+	* Prakhar Thapak, Prodip Hore
+
+* [Video2Commonsense: Generating Commonsense Descriptions to Enrich Video Captioning](https://arxiv.org/abs/2003.05162)
+	* Zhiyuan Fang, Tejas Gokhale, Pratyay Banerjee, Chitta Baral, Yezhou Yang
   
 * [Sentence Level Human Translation Quality Estimation with Attention-based Neural Networks](https://arxiv.org/abs/2003.06381)
   * Yu Yuan, Serge Sharoff
