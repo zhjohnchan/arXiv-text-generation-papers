@@ -83,7 +83,7 @@ Maintained by Zhihong Chen (zhihongchen@link.cuhk.edu.cn) and Yaling Shen (yalin
 * [ReZero is All You Need: Fast Convergence at Large Depth](https://arxiv.org/abs/2003.04887)
 	* Thomas Bachlechner, Bodhisattwa Prasad Majumder, Huanru Henry Mao, Garrison W. Cottrell, Julian McAuley
 
-* [Capturing document context inside sentence-level neural machine translation models with self-training](ttps://arxiv.org/abs/2003.05259)
+* [Capturing document context inside sentence-level neural machine translation models with self-training](https://arxiv.org/abs/2003.05259)
 	* Elman Mansimov, Gábor Melis, Lei Yu
 
 * [Toward Interpretability of Dual-Encoder Models for Dialogue Response Suggestions](https://arxiv.org/abs/2003.04998)
