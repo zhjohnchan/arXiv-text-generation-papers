@@ -6,7 +6,8 @@ Maintained by Zhihong Chen (zhihongchen@link.cuhk.edu.cn) and Yaling Shen (yalin
 ## Table of Contents
 - [2020](#2020)
   - [2020-03](#2020-03)
-
+  - [2020-04](#2020-04)
+  
 ## 2020
 ### 2020-03
 * [Metaphoric Paraphrase Generation](https://arxiv.org/abs/2002.12854)
@@ -208,3 +209,337 @@ Maintained by Zhihong Chen (zhihongchen@link.cuhk.edu.cn) and Yaling Shen (yalin
   
 * [Abstractive Summarization with Combination of Pre-trained Sequence-to-Sequence and Saliency Models](https://arxiv.org/abs/2003.13028)
   * Itsumi Saito, Kyosuke Nishida, Kosuke Nishida, Junji Tomita
+
+### 2020-04
+* [On the Integration of LinguisticFeatures into Statistical and Neural Machine Translation](https://arxiv.org/abs/2003.14324)
+  * Eva Vanmassenhove
+
+* [More Grounded Image Captioning by Distilling Image-Text Matching Model](https://arxiv.org/abs/2004.00390)
+  * Yuanen Zhou, Meng Wang, Daqing Liu, Zhenzhen Hu, Hanwang Zhang
+
+* [Pixel-BERT: Aligning Image Pixels with Text by Deep Multi-Modal Transformers](https://arxiv.org/abs/2004.00849)
+  * Zhicheng Huang, Zhaoyang Zeng, Bei Liu, Dongmei Fu, Jianlong Fu
+
+* [Aligned Cross Entropy for Non-Autoregressive Machine Translation](https://arxiv.org/abs/2004.01655)
+  * Marjan Ghazvininejad, Vladimir Karpukhin, Luke Zettlemoyer, Omer Levy
+
+* [Learning synchronous context-free grammars with multiple specialised non-terminals for hierarchical phrase-based translation](https://arxiv.org/abs/2004.01422)
+  * Felipe Sánchez-Martínez, Juan Antonio Pérez-Ortiz, Rafael C. Carrasco
+
+* [XGLUE: A New Benchmark Dataset for Cross-lingual Pre-training, Understanding and Generation](https://arxiv.org/abs/2004.01401)
+  * Yaobo Liang, Nan Duan, Yeyun Gong, Ning Wu, Fenfei Guo, Weizhen Qi, Ming Gong, Linjun Shou, Daxin Jiang, Guihong Cao, Xiaodong Fan, Bruce Zhang, Rahul Agrawal, Edward Cui, Sining Wei, Taroon Bharti, Ying Qiao, Jiun-Hung Chen, Winnie Wu, Shuguang Liu, Fan Yang, Rangan Majumder, Ming Zhou
+
+* [Meta-Learning for Few-Shot NMT Adaptation](https://arxiv.org/abs/2004.02745)
+  * Amr Sharaf, Hany Hassan, Hal Daumé III
+
+* [Quantum Inspired Word Representation and Computation](https://arxiv.org/abs/2004.02705)
+  * Shen Li, Renfen Hu, Jinshan Wu
+
+* [At Which Level Should We Extract? An Empirical Study on Extractive Document Summarization](https://arxiv.org/abs/2004.02664)
+  * Qingyu Zhou, Furu Wei, Ming Zhou
+
+* [Sparse Text Generation](https://arxiv.org/abs/2004.02644)
+  * Pedro Henrique Martins, Zita Marinho, André F. T. Martins
+
+* [Data Manipulation: Towards Effective Instance Learning for Neural Dialogue Generation via Learning to Augment and Reweight](https://arxiv.org/abs/2004.02594)
+  * Hengyi Cai, Hongshen Chen, Yonghao Song, Cheng Zhang, Xiaofang Zhao, Dawei Yin
+
+* [Learning to Summarize Passages: Mining Passage-Summary Pairs from Wikipedia Revision Histories](https://arxiv.org/abs/2004.02592)
+  * Qingyu Zhou, Furu Wei, Ming Zhou
+
+* [ Dictionary-based Data Augmentation for Cross-Domain Neural Machine Translation](https://arxiv.org/abs/2004.02577)
+  *  Wei Peng, Chongxuan Huang, Tianhao Li, Yun Chen, Qun Liu
+ 
+* [PONE: A Novel Automatic Evaluation Metric for Open-Domain Generative Dialogue Systems](https://arxiv.org/abs/2004.02399)
+  * Tian Lan, Xian-Ling Mao, Wei Wei, Xiaoyan Gao, Heyan Huang
+
+* [Neural Machine Translation with Imbalanced Classes](https://arxiv.org/abs/2004.02334)
+  * Thamme Gowda, Jonathan May
+
+* [Prototype-to-Style: Dialogue Generation with Style-Aware Editing on Retrieval Memory](https://arxiv.org/abs/2004.02214)
+  * Yixuan Su, Yan Wang, Simon Baker, Deng Cai, Xiaojiang Liu, Anna Korhonen, Nigel Collier
+
+* [Syntax-driven Iterative Expansion Language Models for Controllable Text Generation](https://arxiv.org/abs/2004.02211)
+  * Noe Casas, José A. R. Fonollosa, Marta R. Costa-jussà
+
+* [Stylistic Dialogue Generation via Information-Guided Reinforcement Learning Strategy](https://arxiv.org/abs/2004.02202)
+  * Yixuan Su, Deng Cai, Yan Wang, Simon Baker, Anna Korhonen, Nigel Collier, Xiaojiang Liu
+
+* [Understanding Learning Dynamics for Neural Machine Translation](https://arxiv.org/abs/2004.02199)
+  * Conghui Zhu, Guanlin Li, Lemao Liu, Tiejun Zhao, Shuming Shi
+
+* [FastBERT: a Self-distilling BERT with Adaptive Inference Time](https://arxiv.org/abs/2004.02178)
+  * Weijie Liu, Peng Zhou, Zhe Zhao, Zhiruo Wang, Haotang Deng, Qi Ju
+
+* [Reinforced Multi-task Approach for Multi-hop Question Generation](https://arxiv.org/abs/2004.02143)
+  * Deepak Gupta, Hardik Chauhan, Asif Ekbal, Pushpak Bhattacharyya
+
+* [Reference Language based Unsupervised Neural Machine Translation](https://arxiv.org/abs/2004.02127)
+  * Zuchao Li, Hai Zhao, Rui Wang, Masao Utiyama, Eiichiro Sumita
+
+* [Incorporating Bilingual Dictionaries for Low Resource Semi-Supervised Neural Machine Translation](https://arxiv.org/abs/2004.02071)
+  * Sreyashi Nag, Mihir Kale, Varun Lakshminarasimhan, Swapnil Singhavi
+
+* [Open Domain Dialogue Generation with Latent Images](https://arxiv.org/abs/2004.01981)
+  * Ze Yang, Wei Wu, Huang Hu, Can Xu, Zhoujun Li
+
+* [Hooks in the Headline: Learning to Generate Headlines with Controlled Styles](https://arxiv.org/abs/2004.01980)
+  * Di Jin, Zhijing Jin, Joey Tianyi Zhou, Lisa Orii, Peter Szolovits
+
+* [Learning a Simple and Effective Model for Multi-turn Response Generation with Auxiliary Tasks](https://arxiv.org/abs/2004.01972)
+  * Yufan Zhao, Can Xu, Wei Wu
+
+* [BAE: BERT-based Adversarial Examples for Text Classification](https://arxiv.org/abs/2004.01970)
+  * Siddhant Garg, Goutham Ramakrishnan
+
+* [Pre-Trained and Attention-Based Neural Networks for Building Noetic Task-Oriented Dialogue Systems](https://arxiv.org/abs/2004.01940)
+  * Jia-Chen Gu, Tianda Li, Quan Liu, Xiaodan Zhu, Zhen-Hua Ling, Yu-Ping Ruan
+
+* ["None of the Above":Measure Uncertainty in Dialog Response Retrieval](https://arxiv.org/abs/2004.01926)
+  * Yulan Feng, Shikib Mehri, Maxine Eskenazi, Tiancheng Zhao
+
+* [Conversational Question Reformulation via Sequence-to-Sequence Architectures and Pretrained Language Models](https://arxiv.org/abs/2004.01909)
+  * Sheng-Chieh Lin, Jheng-Hong Yang, Rodrigo Nogueira, Ming-Feng Tsai, Chuan-Ju Wang, Jimmy Lin
+
+* [Evaluating Multimodal Representations on Visual Semantic Textual Similarity](https://arxiv.org/abs/2004.01894)
+  * Oier Lopez de Lacalle, Ander Salaberria, Aitor Soroa, Gorka Azkune, Eneko Agirre
+
+* [CG-BERT: Conditional Text Generation with BERT for Generalized Few-shot Intent Detection](https://arxiv.org/abs/2004.01881)
+  * Congying Xia, Chenwei Zhang, Hoang Nguyen, Jiawei Zhang, Philip Yu
+
+* [STEP: Sequence-to-Sequence Transformer Pre-training for Document Summarization](https://arxiv.org/abs/2004.01853)
+  * Yanyan Zou, Xingxing Zhang, Wei Lu, Furu Wei, Ming Zhou
+
+* [Applying Cyclical Learning Rate to Neural Machine Translation](https://arxiv.org/abs/2004.02401)
+  * Choon Meng Lee, Jianfeng Liu, Wei Peng
+
+* [TAPAS: Weakly Supervised Table Parsing via Pre-training](https://arxiv.org/abs/2004.02349)
+  * Jonathan Herzig, Paweł Krzysztof Nowak, Thomas Müller, Francesco Piccinno, Julian Martin Eisenschlos](
+
+* [Transformers to Learn Hierarchical Contexts in Multiparty Dialogue for Span-based Question Answering](https://arxiv.org/abs/2004.03561)
+  * Changmao Li, Jinho D. Choi
+
+* [Automated Utterance Generation](https://arxiv.org/abs/2004.03484)
+  * Soham Parikh, Quaizar Vohra, Mitul Tiwari
+
+* [Efficient Context and Schema Fusion Networks for Multi-Domain Dialogue State Tracking](https://arxiv.org/abs/2004.03386)
+  * Su Zhu, Jieyu Li, Lu Chen, Kai Yu
+
+* [Windowing Models for Abstractive Summarization of Long Texts](https://arxiv.org/abs/2004.03324)
+  * Leon Schüller, Florian Wilhelm, Nico Kreiling, Goran Glavaš
+
+* [Variational Question-Answer Pair Generation for Machine Reading Comprehension](https://arxiv.org/abs/2004.03238)
+  * Kazutoshi Shinoda, Akiko Aizawa
+
+* [Improving Fluency of Non-Autoregressive Machine Translation](https://arxiv.org/abs/2004.03227)
+  * Zdeněk Kasner, Jindřich Libovický, Jindřich Helcl
+
+* [Towards Multimodal Simultaneous Neural Machine Translation](https://arxiv.org/abs/2004.03180)
+  * Aizhan Imankulova, Masahiro Kaneko, Tosho Hirasawa, Mamoru Komachi
+
+* [Machine Translation with Unsupervised Length-Constraints](https://arxiv.org/abs/2004.03176)
+  * Jan Niehues
+
+* [Self-Induced Curriculum Learning in Neural Machine Translation](https://arxiv.org/abs/2004.03151)
+  * Dana Ruiter, Cristina España-Bonet, Josef van Genabith
+
+* [Unsupervised Neural Machine Translation with Indirect Supervision](https://arxiv.org/abs/2004.03137)
+  * Hongxiao Bai, Mingxuan Wang, Hai Zhao, Lei Li
+
+* [Towards Non-task-specific Distillation of BERT via Sentence Representation Approximation](https://arxiv.org/abs/2004.03097)
+  * Bowen Wu, Huan Zhang, Mengyuan Li, Zongsheng Wang, Qihang Feng, Junhong Huang, Baoxun Wang
+
+* [Interview: A Large-Scale Open-Source Corpus of Media Dialog](https://arxiv.org/abs/2004.03090)
+  * Bodhisattwa Prasad Majumder, Shuyang Li, Jianmo Ni, Julian McAuley
+
+* [Inferential Text Generation with Multiple Knowledge Sources and Meta-Learning](https://arxiv.org/abs/2004.03070)
+  * Daya Guo, Akari Asai, Duyu Tang, Nan Duan, Ming Gong, Linjun Shou, Daxin Jiang, Jian Yin, Ming Zhou
+
+* [Information-Theoretic Probing for Linguistic Structure](https://arxiv.org/abs/2004.03061)
+  * Tiago Pimentel, Josef Valvoda, Rowan Hall Maudslay, Ran Zmigrod, Adina Williams, Ryan Cotterell
+
+* [Query Focused Multi-Document Summarization with Distant Supervision](https://arxiv.org/abs/2004.03027)
+  * Yumo Xu, Mirella Lapata
+
+* ["You are grounded!": Latent Name Artifacts in Pre-trained Language Models](https://arxiv.org/abs/2004.03012)
+  * Vered Shwartz, Rachel Rudinger, Oyvind Tafjord
+
+* [Evaluating the Evaluation of Diversity in Natural Language Generation](https://arxiv.org/abs/2004.02990)
+  * Guy Tevet, Jonathan Berant
+
+* [MobileBERT: a Compact Task-Agnostic BERT for Resource-Limited Devices](https://arxiv.org/abs/2004.02984)
+  * Zhiqing Sun, Hongkun Yu, Xiaodan Song, Renjie Liu, Yiming Yang, Denny Zhou
+
+* [MedDialog: A Large-scale Medical Dialogue Dataset](https://arxiv.org/abs/2004.03329)
+  * Shu Chen, Zeqian Ju, Xiangyu Dong, Hongchao Fang, Sicheng Wang, Yue Yang, Jiaqi Zeng, Ruisi Zhang, Ruoyu Zhang, Meng Zhou, Penghui Zhu, Pengtao Xie
+
+* [Putting a Spin on Language: A Quantum Interpretation of Unary Connectives for Linguistic Applications](https://arxiv.org/abs/2004.04128)
+  * A. D. Correia, H. T. C. Stoof, M. Moortgat
+
+* [LadaBERT: Lightweight Adaptation of BERT through Hybrid Model Compression](https://arxiv.org/abs/2004.04124)
+  * Yihuan Mao, Yujing Wang, Chufan Wu, Chen Zhang, Yang Wang, Yaming Yang, Quanlu Zhang, Yunhai Tong, Jing Bai
+
+* [KdConv: A Chinese Multi-domain Dialogue Dataset Towards Multi-turn Knowledge-driven Conversation](https://arxiv.org/abs/2004.04100)
+  * Hao Zhou, Chujie Zheng, Kaili Huang, Minlie Huang, Xiaoyan Zhu
+
+* [Optimus: Organizing Sentences via Pre-trained Modeling of a Latent Space](https://arxiv.org/abs/2004.04092)
+  * Chunyuan Li, Xiang Gao, Yuan Li, Xiujun Li, Baolin Peng, Yizhe Zhang, Jianfeng Gao
+
+* [Are All Good Word Vector Spaces Isomorphic?](https://arxiv.org/abs/2004.04070)
+  * Ivan Vulić, Sebastian Ruder, Anders Søgaard
+
+* [DynaBERT: Dynamic BERT with Adaptive Width and Depth](https://arxiv.org/abs/2004.04037)
+  * Lu Hou, Lifeng Shang, Xin Jiang, Qun Liu
+
+* [Exploiting Redundancy in Pre-trained Language Models for Efficient Transfer Learning](https://arxiv.org/abs/2004.04010)
+  * Fahim Dalvi, Hassan Sajjad, Nadir Durrani, Yonatan Belinkov
+
+* [Transfer learning and subword sampling for asymmetric-resource one-to-many neural translation](https://arxiv.org/abs/2004.04002)
+  * Stig-Arne Grönroos, Sami Virpioja, Mikko Kurimo
+
+* [Pre-training is a Hot Topic: Contextualized Document Embeddings Improve Topic Coherence](https://arxiv.org/abs/2004.03974)
+  * Federico Bianchi, Silvia Terragni, Dirk Hovy
+
+* [Conditional Rap Lyrics Generation with Denoising Autoencoders](https://arxiv.org/abs/2004.03965)
+  * Nikola I. Nikolov, Eric Malmi, Curtis G. Northcutt, Loreto Parisi
+
+* [Diverse, Controllable, and Keyphrase-Aware: A Corpus and Method for News Multi-Headline Generation](https://arxiv.org/abs/2004.03875)
+  * Dayiheng Liu, Yeyun Gong, Jie Fu, Wei Liu, Yu Yan, Bo Shao, Daxin Jiang, Jiancheng Lv, Nan Duan
+
+* [Poor Man's BERT: Smaller and Faster Transformer Models](https://arxiv.org/abs/2004.03844)
+  * Hassan Sajjad, Fahim Dalvi, Nadir Durrani, Preslav Nakov
+
+* [Exploring Versatile Generative Language Model Via Parameter-Efficient Transfer Learning](https://arxiv.org/abs/2004.03829)
+  * Zhaojiang Lin, Andrea Madotto, Pascale Fung
+
+* [Explicit Reordering for Neural Machine Translation](https://arxiv.org/abs/2004.03818)
+  * Kehai Chen, Rui Wang, Masao Utiyama, Eiichiro Sumita
+
+* [Multi-Agent Task-Oriented Dialog Policy Learning with Role-Aware Reward Decomposition](https://arxiv.org/abs/2004.03809)
+  * Ryuichi Takanobu, Runze Liang, Minlie Huang
+
+* [Improving BERT with Self-Supervised Attention](https://arxiv.org/abs/2004.03808)
+  * Xiaoyu Kou, Yaming Yang, Yujing Wang, Ce Zhang, Yiren Chen, Yunhai Tong, Yan Zhang, Jing Bai](
+
+* [CALM: Continuous Adaptive Learning for Language Modeling](https://arxiv.org/abs/2004.03794)
+  * Kristjan Arumae, Parminder Bhatia
+
+* [Generating Narrative Text in a Switching Dynamical System](https://arxiv.org/abs/2004.03762)
+  * Noah Weber, Leena Shekhar, Heeyoung Kwon, Niranjan Balasubramanian, Nathanael Chambers
+
+* [DialBERT: A Hierarchical Pre-Trained Model for Conversation Disentanglement](https://arxiv.org/abs/2004.03760)
+  * Tianda Li, Jia-Chen Gu, Xiaodan Zhu, Quan Liu, Zhen-Hua Ling, Zhiming Su, Si Wei
+
+* [Byte Pair Encoding is Suboptimal for Language Model Pretraining](https://arxiv.org/abs/2004.03720)
+  * Kaj Bostrom, Greg Durrett
+
+* [Re-translation versus Streaming for Simultaneous Translation](https://arxiv.org/abs/2004.03643)
+  * Naveen Arivazhagan, Colin Cherry, Wolfgang Macherey, George Foster
+
+* [Salience Estimation with Multi-Attention Learning for Abstractive Text Summarization](https://arxiv.org/abs/2004.03589)
+  * Piji Li, Lidong Bing, Zhongyu Wei, Wai Lam
+
+* [Speaker-Aware BERT for Multi-Turn Response Selection in Retrieval-Based Chatbots](https://arxiv.org/abs/2004.03588)
+  * Jia-Chen Gu, Tianda Li, Quan Liu, Xiaodan Zhu, Zhen-Hua Ling, Zhiming Su, Si Wei
+
+* [Translation Artifacts in Cross-lingual Transfer Learning](https://arxiv.org/abs/2004.04721)
+  * Mikel Artetxe, Gorka Labaka, Eneko Agirre
+
+* [BLEURT: Learning Robust Metrics for Text Generation](https://arxiv.org/abs/2004.04696)
+  * Thibault Sellam, Dipanjan Das, Ankur P. Parikh
+
+* [Self-Training for Unsupervised Neural Machine Translation in Unbalanced Training Data Scenarios](https://arxiv.org/abs/2004.04507)
+  * Haipeng Sun, Rui Wang, Kehai Chen, Masao Utiyama, Eiichiro Sumita, Tiejun Zhao
+
+* [MuTual: A Dataset for Multi-Turn Dialogue Reasoning](https://arxiv.org/abs/2004.04494)
+  * Leyang Cui, Yu Wu, Shujie Liu, Yue Zhang, Ming Zhou
+
+* [On optimal transformer depth for low-resource language translation](https://arxiv.org/abs/2004.04418)
+  * Elan van Biljon, Arnu Pretorius, Julia Kreutzer
+
+* [Asking and Answering Questions to Evaluate the Factual Consistency of Summaries](https://arxiv.org/abs/2004.04228)
+  * Alex Wang, Kyunghyun Cho, Mike Lewis
+
+* [Learning to Scale Multilingual Representations for Vision-Language Tasks](https://arxiv.org/abs/2004.04312)
+  * Andrea Burns, Donghyun Kim, Derry Wijaya, Kate Saenko, Bryan A. Plummer
+
+* [Longformer: The Long-Document Transformer](https://arxiv.org/abs/2004.05150)
+  * Iz Beltagy, Matthew E. Peters, Arman Cohan
+
+* [Towards Automatic Generation of Questions from Long Answers](https://arxiv.org/abs/2004.05109)
+  * Shlok Kumar Mishra, Pranav Goel, Abhishek Sharma, Abhyuday Jagannatha, David Jacobs, Hal Daumé III
+
+* [Designing Precise and Robust Dialogue Response Evaluators](https://arxiv.org/abs/2004.04908)
+  * Tianyu Zhao, Divesh Lala, Tatsuya Kawahara
+
+* [An In-depth Walkthrough on Evolution of Neural Machine Translation](https://arxiv.org/abs/2004.04902)
+  * Rohan Jagtap, Dr. Sudhir N. Dhage
+
+* [Pretrained Transformers Improve Out-of-Distribution Robustness](https://arxiv.org/abs/2004.06100)
+  * Dan Hendrycks, Xiaoyuan Liu, Eric Wallace, Adam Dziedzic, Rishabh Krishnan, Dawn Song
+
+* [BLEU might be Guilty but References are not Innocent](https://arxiv.org/abs/2004.06063)
+  * Markus Freitag, David Grangier, Isaac Caswell
+
+* [Toward Subgraph Guided Knowledge Graph Question Generation with Graph Neural Networks](https://arxiv.org/abs/2004.06015)
+  * Yu Chen, Lingfei Wu, Mohammed J. Zaki
+
+* [Neural Machine Translation: Challenges, Progress and Future](https://arxiv.org/abs/2004.05809)
+  * Jiajun Zhang, Chengqing Zong
+
+* [ProFormer: Towards On-Device LSH Projection Based Transformers](https://arxiv.org/abs/2004.05801)
+  * Chinnadhurai Sankar, Sujith Ravi, Zornitsa Kozareva
+
+* [Reinforced Curriculum Learning on Pre-trained Neural Machine Translation Models](https://arxiv.org/abs/2004.05757)
+  * Mingjun Zhao, Haijiang Wu, Di Niu, Xiaoli Wang
+
+* [TinyMBERT: Multi-Stage Distillation Framework for Massive Multi-lingual NER](https://arxiv.org/abs/2004.05686)
+  * Subhabrata Mukherjee, Ahmed Awadallah
+
+* [Explaining Question Answering Models through Text Generation](https://arxiv.org/abs/2004.05569)
+  * Veronica Latcinnik, Jonathan Berant
+
+* [When Does Unsupervised Machine Translation Work?](https://arxiv.org/abs/2004.05516)
+  * Kelly Marchisio, Kevin Duh, Philipp Koehn
+
+* [You Impress Me: Dialogue Generation via Mutual Persona Perception](https://arxiv.org/abs/2004.05388)
+  * Qian Liu, Yihong Chen, Bei Chen, Jian-Guang Lou, Zixuan Chen, Bin Zhou, Dongmei Zhang
+
+* [Joint translation and unit conversion for end-to-end localization](https://arxiv.org/abs/2004.05219)
+  * Georgiana Dinu, Prashant Mathur, Marcello Federico, Stanislas Lauly, Yaser Al-Onaizan
+
+* [Learning from Rules Generalizing Labeled Exemplars](https://arxiv.org/abs/2004.06025)
+  * Abhijeet Awasthi, Sabyasachi Ghosh, Rasna Goyal, Sunita Sarawagi
+
+* [Telling BERT's full story: from Local Attention to Global Aggregation](https://arxiv.org/abs/2004.05916)
+  * Damian Pascual, Gino Brunner, Roger Wattenhofer
+
+* [Have Your Text and Use It Too! End-to-End Neural Data-to-Text Generation with Semantic Fidelity](https://arxiv.org/abs/2004.06577)
+  * Hamza Harkous, Isabel Groves, Amir Saffari
+
+* [Multilingual Machine Translation: Closing the Gap between Shared and Language-specific Encoder-Decoders](https://arxiv.org/abs/2004.06575)
+  * Carlos Escolano, Marta R. Costa-jussà, José A. R. Fonollosa, Mikel Artetxe
+
+* [What's so special about BERT's layers? A closer look at the NLP pipeline in monolingual and multilingual models](https://arxiv.org/abs/2004.06499)
+  * Wietse de Vries, Andreas van Cranenburgh, Malvina Nissim
+
+* [Query-Variant Advertisement Text Generation with Association Knowledge](https://arxiv.org/abs/2004.06438)
+  * Siyu Duan, Wei Li, Cai Jing, Yancheng He, Yunfang Wu, Xu Sun
+
+* [Reverse Engineering Configurations of Neural Text Generation Models](https://arxiv.org/abs/2004.06201)
+  * Yi Tay, Dara Bahri, Che Zheng, Clifford Brunk, Donald Metzler, Andrew Tomkins
+
+* [A Divide-and-Conquer Approach to the Summarization of Academic Articles](https://arxiv.org/abs/2004.06190)
+  * Alexios Gidiotis, Grigorios Tsoumakas
+
+* [PoKi: A Large Dataset of Poems by Children](https://arxiv.org/abs/2004.06188)
+  * Will E. Hipson, Saif M. Mohammad
+
+* [AREDSUM: Adaptive Redundancy-Aware Iterative Sentence Ranking for Extractive Document Summarization](https://arxiv.org/abs/2004.06176)
+  * Keping Bi, Rahul Jha, W. Bruce Croft, Asli Celikyilmaz
+
+* [DialGraph: Sparse Graph Learning Networks for Visual Dialog](https://arxiv.org/abs/2004.06698)
+  * Gi-Cheon Kang, Junseok Park, Hwaran Lee, Byoung-Tak Zhang, Jin-Hwa Kim
+
+* [Oscar: Object-Semantics Aligned Pre-training for Vision-Language Tasks](https://arxiv.org/abs/2004.06165)
+  * Xiujun Li, Xi Yin, Chunyuan Li, Pengchuan Zhang, Xiaowei Hu, Lei Zhang, Lijuan Wang, Houdong Hu, Li Dong, Furu Wei, Yejin Choi, Jianfeng Gao
