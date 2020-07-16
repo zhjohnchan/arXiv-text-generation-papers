@@ -8,6 +8,7 @@ Maintained by Zhihong Chen (zhihongchen@link.cuhk.edu.cn) and Yaling Shen (yalin
   - [2020-03](#2020-03)
   - [2020-04](#2020-04)
   - [2020-05](#2020-05)
+  - [2020-06](#2020-06)
   
 ## 2020
 ### 2020-03
@@ -1272,3 +1273,199 @@ Maintained by Zhihong Chen (zhihongchen@link.cuhk.edu.cn) and Yaling Shen (yalin
 
 * [Phone Features Improve Speech Translation](https://arxiv.org/abs/2005.13681)
   * Elizabeth Salesky, Alan W Black
+  
+### 2020-06
+* [Using Large Pretrained Language Models for Answering User Queries from Product Specifications](https://arxiv.org/abs/2005.14613)
+  * Kalyani Roy, Smit Shah, Nithish Pai, Jaidam Ramtej, Prajit Prashant Nadkarn, Jyotirmoy Banerjee, Pawan Goyal, Surender Kumar
+
+* [Neural Simultaneous Speech Translation Using Alignment-Based Chunking](https://arxiv.org/abs/2005.14489)
+  * Patrick Wilken, Tamer Alkhouli, Evgeny Matusov, Pavel Golik
+
+* [On Incorporating Structural Information to improve Dialogue Response Generation](https://arxiv.org/abs/2005.14315)
+  * Nikita Moghe, Priyesh Vijayan, Balaraman Ravindran, Mitesh M. Khapra
+
+* [Controlling Length in Image Captioning](https://arxiv.org/abs/2005.14386)
+  * Ruotian Luo, Greg Shakhnarovich
+
+* [Cascaded Text Generation with Markov Transformers](https://arxiv.org/abs/2006.01112)
+  * Yuntian Deng, Alexander M. Rush
+
+* [Is 42 the Answer to Everything in Subtitling-oriented Speech Translation?](https://arxiv.org/abs/2006.01080)
+  * Alina Karakanta, Matteo Negri, Marco Turchi
+
+* [Conversational Machine Comprehension: a Literature Review](https://arxiv.org/abs/2006.00671)
+  * Somil Gupta, Bhanu Pratap Singh Rawat
+
+* [Data Augmentation for Learning Bilingual Word Embeddings with Unsupervised Machine Translation](https://arxiv.org/abs/2006.00262)
+  * Sosuke Nishikawa, Ryokan Ri, Yoshimasa Tsuruoka
+
+* [Dynamic Masking for Improved Stability in Spoken Language Translation](https://arxiv.org/abs/2006.00249)
+  * Yuekun Yao, Barry Haddow
+
+* [Topic Detection and Summarization of User Reviews](https://arxiv.org/abs/2006.00148)
+  * Pengyuan Li, Lei Huang, Guang-jie Ren
+
+* [ExplainIt: Explainable Review Summarization with Opinion Causality Graphs](https://arxiv.org/abs/2006.00119)
+  * Nofar Carmeli, Xiaolan Wang, Yoshihiko Suhara, Stefanos Angelidis, Yuliang Li, Jinfeng Li, Wang-Chiew Tan
+
+* [Probing Emergent Semantics in Predictive Agents via Question Answering](https://arxiv.org/abs/2006.01016)
+  * Abhishek Das, Federico Carnevale, Hamza Merzic, Laura Rimell, Rosalia Schneider, Josh Abramson, Alden Hung, Arun Ahuja, Stephen Clark, Gregory Wayne, Felix Hill
+
+* [A Unified Dual-view Model for Review Summarization and Sentiment Classification with Inconsistency Loss](https://arxiv.org/abs/2006.01592)
+  * Hou Pong Chan, Wang Chen, Irwin King
+
+* [Question Answering on Scholarly Knowledge Graphs](https://arxiv.org/abs/2006.01527)
+  * Mohamad Yaser Jaradeh, Markus Stocker, Sören Auer
+
+* [Multi-Agent Cross-Translated Diversification for Unsupervised Machine Translation](https://arxiv.org/abs/2006.02163)
+  * Xuan-Phi Nguyen, Shafiq Joty, Wu Kui, Ai Ti Aw
+
+* [Norm-Based Curriculum Learning for Neural Machine Translation](https://arxiv.org/abs/2006.02014)
+  * Xuebo Liu, Houtim Lai, Derek F. Wong, Lidia S. Chao
+
+* [Automatic Text Summarization of COVID-19 Medical Research Articles using BERT and GPT-2](https://arxiv.org/abs/2006.01997)
+  * Virapat Kieuvongngam, Bowen Tan, Yiming Niu
+  
+* [Response to LiveBot: Generating Live Video Comments Based on Visual and Textual Contexts](https://arxiv.org/abs/2006.03022)
+  * Hao Wu, Gareth J. F. Jones, Francois Pitie
+
+* [End-to-End Speech-Translation with Knowledge Distillation: FBK@IWSLT2020](https://arxiv.org/abs/2006.02965)
+  * Marco Gaido, Mattia Antonino Di Gangi, Matteo Negri, Marco Turchi
+
+* [Using Self-Training to Improve Back-Translation in Low Resource Neural Machine Translation](https://arxiv.org/abs/2006.02876)
+  * Idris Abdulmumin, Bashir Shehu Galadanci, Abubakar Isa
+
+* [Seq2Seq AI Chatbot with Attention Mechanism](https://arxiv.org/abs/2006.02767)
+  * Abonia Sojasingarayar
+
+* [Self-Training for End-to-End Speech Translation](https://arxiv.org/abs/2006.02490)
+  * Juan Pino, Qiantong Xu, Xutai Ma, Mohammad Javad Dousti, Yun Tang
+
+* [CoCon: A Self-Supervised Approach for Controlled Text Generation](https://arxiv.org/abs/2006.03535)
+  * Alvin Chan, Yew-Soon Ong, Bill Pung, Aston Zhang, Jie Fu
+
+* [Unsupervised Translation of Programming Languages](https://arxiv.org/abs/2006.03511)
+  * Marie-Anne Lachaux, Baptiste Roziere, Lowik Chanussot, Guillaume Lample
+
+* [Human or Machine: Automating Human Likeliness Evaluation of NLG Texts](https://arxiv.org/abs/2006.03189)
+  * Erion Çano, Ondřej Bojar
+
+* [Modeling Discourse Structure for Document-level Neural Machine Translation](https://arxiv.org/abs/2006.04721)
+  * Junxuan Chen, Xiang Li, Jiarui Zhang, Chulun Zhou, Jianwei Cui, Bin Wang, Jinsong Su
+
+* [CycleGT: Unsupervised Graph-to-Text and Text-to-Graph Generation via Cycle Training](https://arxiv.org/abs/2006.04702)
+  * Qipeng Guo, Zhijing Jin, Xipeng Qiu, Weinan Zhang, David Wipf, Zheng Zhang
+
+* [Growing Together: Modeling Human Language Learning With n-Best Multi-Checkpoint Machine Translation](https://arxiv.org/abs/2006.04050)
+  * El Moatez Billah Nagoudi, Muhammad Abdul-Mageed, Hasan Cavusoglu
+
+* [Auxiliary Signal-Guided Knowledge Encoder-Decoder for Medical Report Generation](https://arxiv.org/abs/2006.03744)
+  * Mingjie Li, Fuyu Wang, Xiaojun Chang, Xiaodan Liang
+
+* [Understanding Points of Correspondence between Sentences for Abstractive Summarization](https://arxiv.org/abs/2006.05621)
+  * Logan Lebanoff, John Muchovej, Franck Dernoncourt, Doo Soon Kim, Lidan Wang, Walter Chang, Fei Liu
+
+* [Unsupervised Paraphrase Generation using Pre-trained Language Models](https://arxiv.org/abs/2006.05477)
+  * Chaitra Hegde, Shrikumar Patil
+
+* [Combination of abstractive and extractive approaches for summarization of long scientific texts](https://arxiv.org/abs/2006.05354)
+  * Vladislav Tretyak, Denis Stepanov
+
+* [Knowledge-Aided Open-Domain Question Answering](https://arxiv.org/abs/2006.05244)
+  * antong Zhou, Zhouxing Shi, Minlie Huang, Xiaoyan Zhu
+
+* [ConfNet2Seq: Full Length Answer Generation from Spoken Questions](https://arxiv.org/abs/2006.05163)
+  * Vaishali Pal, Manish Shrivastava, Laurent Besacier
+
+* [HausaMT v1.0: Towards English-Hausa Neural Machine Translation](https://arxiv.org/abs/2006.05014)
+  * Adewale Akinfaderin
+
+* [Universal Vector Neural Machine Translation With Effective Attention](https://arxiv.org/abs/2006.05003)
+  * Satish Mylapore, Ryan Quincy Paul, Joshua Yi, Robert D. Slater
+
+* [On the Effectiveness of Neural Text Generation based Data Augmentation for Recognition of Morphologically Rich Speech](https://arxiv.org/abs/2006.05129)
+  * Balázs Tarján, György Szaszák, Tibor Fegyó, Péter Mihajlik
+
+* [Tangled up in BLEU: Reevaluating the Evaluation of Automatic Machine Translation Evaluation Metrics](https://arxiv.org/abs/2006.06264)
+  * Nitika Mathur, Timothy Baldwin, Trevor Cohn
+
+* [Modelling Hierarchical Structure between Dialogue Policy and Natural Language Generator with Option Framework for Task-oriented Dialogue System](https://arxiv.org/abs/2006.06814)
+  * Jianhong Wang, Yuan Zhang, Tae-Kyun Kim, Yunjie Gu
+
+* [ubjective Question Answering: Deciphering the inner workings of Transformers in the realm of subjectivity](https://arxiv.org/abs/2006.08342)
+  * Lukas Muttenthaler
+
+* [Graph-Stega: Semantic Controllable Steganographic Text Generation Guided by Knowledge Graph](https://arxiv.org/abs/2006.08339)
+  * Zhongliang Yang, Baitao Gong, Yamin Li, Jinshuai Yang, Zhiwen Hu, Yongfeng Huang
+
+* [Fine-grained Human Evaluation of Transformer and Recurrent Approaches to Neural Machine Translation for English-to-Chinese](https://arxiv.org/abs/2006.08297)
+  * Yuying Ye, Antonio Toral
+
+* [A Generative Model for Joint Natural Language Understanding and Generation](https://arxiv.org/abs/2006.07499)
+  * Bo-Hsiang Tseng, Jianpeng Cheng, Yimai Fang, David Vandyke
+
+* [SD-RSIC: Summarization Driven Deep Remote Sensing Image Captioning](https://arxiv.org/abs/2006.08432)
+  * Gencer Sumbul, Sonali Nayak, Begüm Demir
+
+* [Modeling Graph Structure via Relative Position for Better Text Generation from Knowledge Graphs](https://arxiv.org/abs/2006.09242)
+  * Martin Schmitt, Leonardo F. R. Ribeiro, Philipp Dufter, Iryna Gurevych, Hinrich Schütze
+
+* [A Hybrid Natural Language Generation System Integrating Rules and Deep Learning Algorithms](https://arxiv.org/abs/2006.09213)
+  * Wei Wei, Bei Zhou, Georgios Leontidis
+
+* [Fine-grained Sentiment Controlled Text Generation](https://arxiv.org/abs/2006.09891)
+  * Bidisha Samanta, Mohit Agarwal, Niloy Ganguly
+
+* [Selective Question Answering under Domain Shift](https://arxiv.org/abs/2006.09462)
+  * Amita Kamath, Robin Jia, Percy Liang
+
+* [De-Anonymizing Text by Fingerprinting Language Generation](https://arxiv.org/abs/2006.09615)
+  * Zhen Sun, Roei Schuster, Vitaly Shmatikov
+
+* [CO-Search: COVID-19 Information Retrieval with Semantic Search, Question Answering, and Abstractive Summarization](https://arxiv.org/abs/2006.09595)
+  * Andre Esteva, Anuprit Kale, Romain Paulus, Kazuma Hashimoto, Wenpeng Yin, Dragomir Radev, Richard Socher
+
+* [Deep Encoder, Shallow Decoder: Reevaluating the Speed-Quality Tradeoff in Machine Translation](https://arxiv.org/abs/2006.10369)
+  * Jungo Kasai, Nikolaos Pappas, Hao Peng, James Cross, Noah A. Smith
+
+* [SEAL: Segment-wise Extractive-Abstractive Long-form Text Summarization](https://arxiv.org/abs/2006.10213)
+  * Yao Zhao, Mohammad Saleh, Peter J.Liu
+
+* [A Qualitative Evaluation of Language Models on Automatic Question-Answering for COVID-19](https://arxiv.org/abs/2006.10964)
+  * David Oniani, Yanshan Wang
+
+* [Shared Task on Evaluating Accuracy in Natural Language Generation](https://arxiv.org/abs/2006.12234)
+  * Ehud Reiter, Craig Thomson
+
+* [Efficient text generation of user-defined topic using generative adversarial networks](https://arxiv.org/abs/2006.12005)
+  * Chenhan Yuan, Yi-chin Huang, Cheng-Hung Tsai
+
+* [Learning aligned embeddings for semi-supervised word translation using Maximum Mean Discrepancy](https://arxiv.org/abs/2006.11578)
+  * Antonio H. O. Fonseca, David van Dijk
+
+* [Improving Image Captioning with Better Use of Captions](https://arxiv.org/abs/2006.11807)
+  * Zhan Shi, Xu Zhou, Xipeng Qiu, Xiaodan Zhu
+
+* [Learning Source Phrase Representations for Neural Machine Translation](https://arxiv.org/abs/2006.14405)
+  * Hongfei Xu, Josef van Genabith, Deyi Xiong, Qiuhui Liu, Jingyi Zhang
+
+* [Neural Machine Translation For Paraphrase Generation](https://arxiv.org/abs/2006.14223)
+  * Alex Sokolov, Denis Filimonov
+
+* [Neural Machine Translation for Multilingual Grapheme-to-Phoneme Conversion](https://arxiv.org/abs/2006.14194)
+  * Alex Sokolov, Tracy Rohlin, Ariya Rastrow
+
+* [Evaluation of Text Generation: A Survey](https://arxiv.org/abs/2006.14799)
+  * Asli Celikyilmaz, Elizabeth Clark, Jianfeng Gao
+
+* [Progressive Generation of Long Text](https://arxiv.org/abs/2006.15720)
+  * Bowen Tan, Zichao Yang, Maruan AI-Shedivat, Eric P. Xing, Zhiting Hu
+
+* [A Deep Reinforced Model for Zero-Shot Cross-Lingual Summarization with Bilingual Semantic Similarity Rewards](https://arxiv.org/abs/2006.15454)
+  * Zi-Yi Dou, Sachin Kumar, Yulia Tsvetkov
+
+* [Mind The Facts: Knowledge-Boosted Coherent Abstractive Text Summarization](https://arxiv.org/abs/2006.15435)
+  * Beliz Gunel, Chenguang Zhu, Michael Zeng, Xuedong Huang
+
+* [Video-Grounded Dialogues with Pretrained Generation Language Models](https://arxiv.org/abs/2006.15319)
+  * Hung Le, Steven C.H. Hoi
